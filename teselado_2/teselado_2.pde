@@ -25,7 +25,7 @@ if (random(1) < 0.6) {
   g = random(170, 200);   // verde medio
   b = random(120, 150);    // azul bajo 
 } else {
-  // 💗 Rosado intenso pastel
+  // Rosado intenso pastel
   r = random(240, 255);   // rojo alto
   g = random(170, 200);   // verde bajo-medio 
   b = random(190, 240);   // azul alto 
